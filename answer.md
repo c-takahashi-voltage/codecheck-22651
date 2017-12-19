@@ -2,4 +2,4 @@
 PHP
 
 ## Q2. コードの説明 Code Explanation
-
+入力した名前に対して「Hello [名前]」を出力します

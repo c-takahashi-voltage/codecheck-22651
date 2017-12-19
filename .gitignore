@@ -15,3 +15,4 @@
 /composer.phar
 
 node_modules/
+/nbproject/*
